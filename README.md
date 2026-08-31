@@ -1,5 +1,6 @@
 # Stop Auditing Ledgers Manually: The Ultimate Forensic Risk Excel Engine
 
+
 Every internal auditor, financial controller, and forensic investigator knows the silent anxiety of manual sampling.
 
 You are handed a General Ledger with **150,000+ line items**. You run basic filters, apply standard VLOOKUPs, and sample 5% of the highest transaction amounts. But deep down, you know the truth: **manual sampling misses up to 80% of modern financial anomalies.**
